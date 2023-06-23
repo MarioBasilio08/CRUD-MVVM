@@ -1,0 +1,17 @@
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\CRUD.ViewModel.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\CRUD.ViewModel.pdb
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\CRUD.Model.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\MaterialDesignColors.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\CRUD.Model.pdb
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\MaterialDesignColors.pdb
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\obj\Debug\CRUD.ViewModel.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\obj\Debug\CRUD.ViewModel.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\obj\Debug\CRUD.ViewModel.csproj.CopyComplete
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\obj\Debug\CRUD.ViewModel.dll
+D:\Trabajo\Ejercicios\CRUD-MVVM\CRUD_PatronMVVM\CRUD.ViewModel\obj\Debug\CRUD.ViewModel.pdb
